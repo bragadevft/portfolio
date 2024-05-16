@@ -310,9 +310,9 @@
 
 /* TODO Astronauta */
 .astronaut-container {
-    width: 560px;
+    width: 400px;
     /* Defina a largura desejada */
-    height: 560px;
+    height: 400px;
     /* Defina a altura desejada */
     position: absolute;
     /* Posição relativa para que os elementos filhos usem coordenadas relativas */
@@ -320,7 +320,7 @@
     /* Centralize horizontalmente */
     overflow: hidden;
     /* Esconda qualquer coisa que ultrapasse os limites do contêiner */
-    top: 130px;
+    top: 200px;
     left: 800px;
 }
 @keyframes snow {

@@ -321,7 +321,7 @@
     overflow: hidden;
     /* Esconda qualquer coisa que ultrapasse os limites do contêiner */
     top: 130px;
-    left: 850px;
+    left: 800px;
 }
 @keyframes snow {
     0% {
